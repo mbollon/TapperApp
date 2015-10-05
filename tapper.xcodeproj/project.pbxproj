@@ -14,6 +14,7 @@
 		49DE7B301BC20EF5000E55DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49DE7B2E1BC20EF5000E55DB /* LaunchScreen.storyboard */; };
 		49DE7B3B1BC20EF5000E55DB /* tapperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE7B3A1BC20EF5000E55DB /* tapperTests.swift */; };
 		49DE7B461BC20EF5000E55DB /* tapperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DE7B451BC20EF5000E55DB /* tapperUITests.swift */; };
+		49DE7B541BC20F5D000E55DB /* coin.imageset in Resources */ = {isa = PBXBuildFile; fileRef = 49DE7B531BC20F5D000E55DB /* coin.imageset */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		49DE7B411BC20EF5000E55DB /* tapperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tapperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49DE7B451BC20EF5000E55DB /* tapperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tapperUITests.swift; sourceTree = "<group>"; };
 		49DE7B471BC20EF5000E55DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49DE7B531BC20F5D000E55DB /* coin.imageset */ = {isa = PBXFileReference; lastKnownFileType = folder; path = coin.imageset; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		49DE7B241BC20EF4000E55DB /* tapper */ = {
 			isa = PBXGroup;
 			children = (
+				49DE7B531BC20F5D000E55DB /* coin.imageset */,
 				49DE7B251BC20EF4000E55DB /* AppDelegate.swift */,
 				49DE7B271BC20EF4000E55DB /* ViewController.swift */,
 				49DE7B291BC20EF4000E55DB /* Main.storyboard */,
@@ -231,6 +234,7 @@
 				49DE7B301BC20EF5000E55DB /* LaunchScreen.storyboard in Resources */,
 				49DE7B2D1BC20EF5000E55DB /* Assets.xcassets in Resources */,
 				49DE7B2B1BC20EF4000E55DB /* Main.storyboard in Resources */,
+				49DE7B541BC20F5D000E55DB /* coin.imageset in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
